@@ -1,0 +1,16 @@
+
+.inputField {
+    border-bottom-left-radius: 25px;
+    border-top-left-radius: 25px;
+    padding: 0.5em;
+    border: 2px solid grey;
+    width: 300px;
+}
+
+.searchButton {
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 25px;
+    padding: 0.5em;
+    background: white;
+    border: 2px solid grey;
+}

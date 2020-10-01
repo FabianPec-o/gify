@@ -1,0 +1,25 @@
+.nav {
+    position: fixed;
+    top: 0;
+    padding: 0;
+    margin: 0;
+    background: rgba(0,0,0,0.5);
+    color: white;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    transition: 0.5s ease all;
+}
+
+.title {
+   color: #61dafb;
+}
+
+h3 {
+    padding: 1em;
+}
+
+h3:hover {
+    color: #61dafb;
+
+}
